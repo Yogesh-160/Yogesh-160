@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN and MEAN Stack**
 
-- 💬 Ask me about **HTML,CSS,Javascript,SQL,Bootstrap**
+- 💬 Ask me about **HTML, CSS, Javascript, SQL, Bootstrap, C Programming Language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
