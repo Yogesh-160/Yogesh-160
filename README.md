@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN and MEAN Stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **HTML, CSS, Javascript, SQL, Bootstrap, C Programming Language**
 
